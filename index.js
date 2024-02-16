@@ -99,3 +99,11 @@ let greatestdecrease = { date: "", amount: 0 };
 for (let i = 0; i < Finances.length; i++) {
   const currentamount = Finances[i][1];
   const currentmonth = Finances[i][0];
+
+  // Calculating changes in profit/losses (nettotal)
+  if (i > 0) {
+    nettotal = currentamount - Finances[i - 1][1];
+   totalChanges += nettotal;
+   profit_loss += currentamount
+
+   // Updating for greatest increase and decrease
