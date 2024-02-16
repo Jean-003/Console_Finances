@@ -18,6 +18,9 @@ Open the Chrome DevTools by pressing Control+Shift+I (Windows) or Command+Option
 ![Image displaying the console]   
 (Images\Screenshot 2024-02-16 165930.png)
 
+![Image displaying the console in the browser]
+
+(https://github.com/Jean-003/Console_Finances/assets/152238337/8454d36d-1952-42ad-a45d-04ffd8cfd0b2)
 
 ##Licences
 None
