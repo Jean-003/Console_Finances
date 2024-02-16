@@ -107,3 +107,15 @@ for (let i = 0; i < Finances.length; i++) {
    profit_loss += currentamount
 
    // Updating for greatest increase and decrease
+   if (nettotal > greatestincrease.amount) {
+    greatestincrease.date = currentmonth;
+    greatestincrease.amount = nettotal;
+  }
+
+  if (nettotal < greatestdecrease.amount) {
+    greatestdecrease.date = currentmonth;
+    greatestdecrease.amount = nettotal;
+  }
+}else{
+  profit_loss += currentamount
+}
