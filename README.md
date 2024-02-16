@@ -15,11 +15,12 @@ To view the financial analysis results summary:
 Open the Chrome DevTools by pressing Control+Shift+I (Windows) or Command+Option+I (macOS). This opens a console panel to the side of the webpage or below the webapage in the browser where you can find an analysis of results.
 
 ##Screenshot
+![Image displaying the console]   
+(Images\Screenshot 2024-02-16 165930.png)
 
 
 ##Licences
 None
-
 
 
 ##_References_
