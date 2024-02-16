@@ -121,4 +121,13 @@ for (let i = 0; i < Finances.length; i++) {
 
 // Calculating the average change
 const averagechange = totalChanges / (totalmonths - 1);
+
+ // The results summary
+ console.log("Total Months:", totalmonths);
+ console.log("Net Total Profit/Losses:", profit_loss);
+ console.log("Average Change:", averagechange);
+ console.log("Greatest Increase in Profits:", greatestincrease.date, greatestincrease.amount);
+ console.log("Greatest Decrease in Profits:", greatestdecrease.date, greatestdecrease.amount);
+}
+
   
