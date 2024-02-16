@@ -88,3 +88,14 @@ const Finances= [
   ['Feb-2017', 671099],
 ];
 
+// Function to calculate finances
+const totalmonths = Finances.length;
+let nettotal = 0;
+let totalChanges = 0;
+let profit_loss = 0
+let greatestincrease = { date: "", amount: 0 };
+let greatestdecrease = { date: "", amount: 0 };
+
+for (let i = 0; i < Finances.length; i++) {
+  const currentamount = Finances[i][1];
+  const currentmonth = Finances[i][0];
