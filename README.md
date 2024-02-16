@@ -14,11 +14,8 @@ https://github.com/Jean-003/Console_Finances
 To view the financial analysis results summary:
 Open the Chrome DevTools by pressing Control+Shift+I (Windows) or Command+Option+I (macOS). This opens a console panel to the side of the webpage or below the webapage in the browser where you can find an analysis of results.
 
-##Screenshot
-![Image displaying the console]   
-(Images\Screenshot 2024-02-16 165930.png)
 
-![Image displaying the console in the browser]
+![Image displaying the console of the project webpage in the browser]
 
 (https://github.com/Jean-003/Console_Finances/assets/152238337/8454d36d-1952-42ad-a45d-04ffd8cfd0b2)
 
