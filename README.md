@@ -25,9 +25,9 @@ None
 
 ##_References_
 
-Financial Data was provided by EdX.
+Financial Data was provided by edX.
 
-The following JavaScript starter code was also supplied by EdX:
+The following JavaScript starter code was also supplied by edX:
 
 // Initialize variables to store the required information
 let totalMonths = 0;
