@@ -1,4 +1,4 @@
-#Obective
+#Objective
 
 This project created a tool utilising Javascript for analysing the financial records of a company. The primary objective of this project involved providing a comprehensive analysis of a company's financial data, enabling stakeholders to gain insights into the company's financial performance.
 
